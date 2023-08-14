@@ -1,0 +1,21 @@
+{
+  "name": "express-mysql-raw",
+  "version": "1.0.0",
+  "description": "Node. js restful CRUD API with Node. js Express and Mysql",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "Suphaset",
+  "license": "ISC",
+  "dependencies": {
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
